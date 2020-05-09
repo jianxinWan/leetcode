@@ -123,6 +123,33 @@ c__/fast:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
 
+lengthOfLastWord.o: lengthOfLastWord.cpp.o
+
+.PHONY : lengthOfLastWord.o
+
+# target to build an object file
+lengthOfLastWord.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLastWord.cpp.o
+.PHONY : lengthOfLastWord.cpp.o
+
+lengthOfLastWord.i: lengthOfLastWord.cpp.i
+
+.PHONY : lengthOfLastWord.i
+
+# target to preprocess a source file
+lengthOfLastWord.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLastWord.cpp.i
+.PHONY : lengthOfLastWord.cpp.i
+
+lengthOfLastWord.s: lengthOfLastWord.cpp.s
+
+.PHONY : lengthOfLastWord.s
+
+# target to generate assembly for a file
+lengthOfLastWord.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLastWord.cpp.s
+.PHONY : lengthOfLastWord.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+merge.o: merge.cpp.o
+
+.PHONY : merge.o
+
+# target to build an object file
+merge.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/merge.cpp.o
+.PHONY : merge.cpp.o
+
+merge.i: merge.cpp.i
+
+.PHONY : merge.i
+
+# target to preprocess a source file
+merge.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/merge.cpp.i
+.PHONY : merge.cpp.i
+
+merge.s: merge.cpp.s
+
+.PHONY : merge.s
+
+# target to generate assembly for a file
+merge.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/merge.cpp.s
+.PHONY : merge.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c__"
+	@echo "... lengthOfLastWord.o"
+	@echo "... lengthOfLastWord.i"
+	@echo "... lengthOfLastWord.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... merge.o"
+	@echo "... merge.i"
+	@echo "... merge.s"
 .PHONY : help
 
 
