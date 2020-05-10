@@ -150,6 +150,33 @@ lengthOfLastWord.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLastWord.cpp.s
 .PHONY : lengthOfLastWord.cpp.s
 
+lengthOfLongestSubstring.o: lengthOfLongestSubstring.cpp.o
+
+.PHONY : lengthOfLongestSubstring.o
+
+# target to build an object file
+lengthOfLongestSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o
+.PHONY : lengthOfLongestSubstring.cpp.o
+
+lengthOfLongestSubstring.i: lengthOfLongestSubstring.cpp.i
+
+.PHONY : lengthOfLongestSubstring.i
+
+# target to preprocess a source file
+lengthOfLongestSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.i
+.PHONY : lengthOfLongestSubstring.cpp.i
+
+lengthOfLongestSubstring.s: lengthOfLongestSubstring.cpp.s
+
+.PHONY : lengthOfLongestSubstring.s
+
+# target to generate assembly for a file
+lengthOfLongestSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.s
+.PHONY : lengthOfLongestSubstring.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -216,6 +243,9 @@ help:
 	@echo "... lengthOfLastWord.o"
 	@echo "... lengthOfLastWord.i"
 	@echo "... lengthOfLastWord.s"
+	@echo "... lengthOfLongestSubstring.o"
+	@echo "... lengthOfLongestSubstring.i"
+	@echo "... lengthOfLongestSubstring.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

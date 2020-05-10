@@ -86,6 +86,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLastWord.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp">
 			<Option target="c__"/>
 		</Unit>
