@@ -17,6 +17,7 @@ using  namespace std;
  * ------------------------------------------------
  */
 
+
 #if 0
 int lengthOfLongestSubstring::index(string s) {
     int  size,i=0,j,k,max=0;
