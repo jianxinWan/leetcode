@@ -1,2 +1,2 @@
 # leetcode
-leetcode用js刷题
+坚持每天一题
