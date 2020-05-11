@@ -43,17 +43,16 @@ int lengthOfLongestSubstring::index(string s) {
 
 int lengthOfLongestSubstring::index(string s) {
     int n = s.size();
-    unordered_set<char> occ;
-    int rk =-1,i;
-    int ans = 0;
     if(n == 0){
         return 0;
     }
-    for(i=0;i<n;i++){
+    int ans = 0,i,rk=-1;
+    unordered_set<char> occ;
+    for(i=0;i<n;++i){
         if(i!=0){
-            occ.erase(s[i]);
+            occ.erase(s[i-1]);
         }
-        while (rk + 1 <n && !occ.count(s[rk+1])){
+        while(rk + 1 <n && !occ.count(s[rk+1])){
             occ.insert(s[rk+1]);
             ++rk;
         }

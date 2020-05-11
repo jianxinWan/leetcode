@@ -204,6 +204,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+maximalSquare.o: maximalSquare.cpp.o
+
+.PHONY : maximalSquare.o
+
+# target to build an object file
+maximalSquare.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maximalSquare.cpp.o
+.PHONY : maximalSquare.cpp.o
+
+maximalSquare.i: maximalSquare.cpp.i
+
+.PHONY : maximalSquare.i
+
+# target to preprocess a source file
+maximalSquare.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maximalSquare.cpp.i
+.PHONY : maximalSquare.cpp.i
+
+maximalSquare.s: maximalSquare.cpp.s
+
+.PHONY : maximalSquare.s
+
+# target to generate assembly for a file
+maximalSquare.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maximalSquare.cpp.s
+.PHONY : maximalSquare.cpp.s
+
 merge.o: merge.cpp.o
 
 .PHONY : merge.o
@@ -249,6 +276,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... maximalSquare.o"
+	@echo "... maximalSquare.i"
+	@echo "... maximalSquare.s"
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"
