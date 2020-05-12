@@ -7,13 +7,14 @@ using namespace std;
 
 int main() {
     maximalSquare t;
-    vector<vector<char>> maxtrix = {
-            {'1','0', '1', '0' ,'0'},
-            {'1','0', '1', '1' ,'1'},
-            {'1','0', '1', '1' ,'1'},
-            {'1','0', '1', '1' ,'1'},
-            {'1','0', '1', '0' ,'0'},
+    vector<vector<char>> matrix = {
+            {'1','1', '1', '1' ,'1'},
+            {'1','1', '1', '1' ,'1'},
+            {'1','1', '1', '1' ,'1'},
+            {'1','1', '1', '1' ,'1'},
+            {'1','1', '1', '1' ,'1'},
     };
-    cout << t.method1(maxtrix) << endl;
+//    cout << t.method1(matrix) << endl;
+    cout << "method2:" <<  t.method2(matrix) << endl;
     return 0;
 }
