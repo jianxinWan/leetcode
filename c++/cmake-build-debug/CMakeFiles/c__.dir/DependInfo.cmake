@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/maximalSquare.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/merge.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/merge.cpp.o"
+  "/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/mincostTickets.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

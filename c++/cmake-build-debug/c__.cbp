@@ -107,6 +107,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/merge.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

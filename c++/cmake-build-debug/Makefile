@@ -258,6 +258,33 @@ merge.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/merge.cpp.s
 .PHONY : merge.cpp.s
 
+mincostTickets.o: mincostTickets.cpp.o
+
+.PHONY : mincostTickets.o
+
+# target to build an object file
+mincostTickets.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mincostTickets.cpp.o
+.PHONY : mincostTickets.cpp.o
+
+mincostTickets.i: mincostTickets.cpp.i
+
+.PHONY : mincostTickets.i
+
+# target to preprocess a source file
+mincostTickets.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mincostTickets.cpp.i
+.PHONY : mincostTickets.cpp.i
+
+mincostTickets.s: mincostTickets.cpp.s
+
+.PHONY : mincostTickets.s
+
+# target to generate assembly for a file
+mincostTickets.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mincostTickets.cpp.s
+.PHONY : mincostTickets.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -282,6 +309,9 @@ help:
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"
+	@echo "... mincostTickets.o"
+	@echo "... mincostTickets.i"
+	@echo "... mincostTickets.s"
 .PHONY : help
 
 

@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.cpp
-maximalSquare.h
-/Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.h
+/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp
 iostream
 -
+mincostTickets.h
+/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
 
-/Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.h
+/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
 vector
+-
+unordered_set
 -
 

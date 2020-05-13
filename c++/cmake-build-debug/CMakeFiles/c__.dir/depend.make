@@ -8,11 +8,14 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.c
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
-CMakeFiles/c__.dir/main.cpp.o: ../maximalSquare.h
+CMakeFiles/c__.dir/main.cpp.o: ../mincostTickets.h
 
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.cpp
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.h
 
 CMakeFiles/c__.dir/merge.cpp.o: ../merge.cpp
 CMakeFiles/c__.dir/merge.cpp.o: ../merge.h
+
+CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.cpp
+CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.h
 
