@@ -9,7 +9,7 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.h
 CMakeFiles/c__.dir/main.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
- /Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
+ /Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h
 CMakeFiles/c__.dir/maximalSquare.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.h
@@ -19,3 +19,6 @@ CMakeFiles/c__.dir/merge.cpp.o
 CMakeFiles/c__.dir/mincostTickets.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
+CMakeFiles/c__.dir/singleNumber.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h

@@ -4,13 +4,14 @@
 //#include "lengthOfLastWord.h"
 //#include "lengthOfLongestSubstring.h"
 //#include "maximalSquare.h"
-#include "mincostTickets.h"
+//#include "mincostTickets.h"
+#include "singleNumber.h"
 using namespace std;
 
 int main() {
-    mincostTickets s;
-    vector<int> days = {1,4,6,7,8,20};
-    vector<int> costs = {2,7,15};
-    cout << s.index(days,costs) << endl;
+    vector<int> nums = {1,1,2,2,3};
+    singleNumber s;
+    cout << s.index(nums) << endl;
+    cout << s.index2(nums) << endl;
     return 0;
 }

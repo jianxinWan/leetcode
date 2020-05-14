@@ -285,6 +285,33 @@ mincostTickets.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mincostTickets.cpp.s
 .PHONY : mincostTickets.cpp.s
 
+singleNumber.o: singleNumber.cpp.o
+
+.PHONY : singleNumber.o
+
+# target to build an object file
+singleNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/singleNumber.cpp.o
+.PHONY : singleNumber.cpp.o
+
+singleNumber.i: singleNumber.cpp.i
+
+.PHONY : singleNumber.i
+
+# target to preprocess a source file
+singleNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/singleNumber.cpp.i
+.PHONY : singleNumber.cpp.i
+
+singleNumber.s: singleNumber.cpp.s
+
+.PHONY : singleNumber.s
+
+# target to generate assembly for a file
+singleNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/singleNumber.cpp.s
+.PHONY : singleNumber.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -312,6 +339,9 @@ help:
 	@echo "... mincostTickets.o"
 	@echo "... mincostTickets.i"
 	@echo "... mincostTickets.s"
+	@echo "... singleNumber.o"
+	@echo "... singleNumber.i"
+	@echo "... singleNumber.s"
 .PHONY : help
 
 

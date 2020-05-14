@@ -6,15 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp
+/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp
 iostream
 -
-mincostTickets.h
-/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
-
-/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h
-vector
+algorithm
 -
 unordered_set
+-
+singleNumber.h
+/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h
+vector
 -
 
