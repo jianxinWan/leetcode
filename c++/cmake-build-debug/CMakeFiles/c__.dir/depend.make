@@ -8,7 +8,7 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.c
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
-CMakeFiles/c__.dir/main.cpp.o: ../singleNumber.h
+CMakeFiles/c__.dir/main.cpp.o: ../subarraySum.h
 
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.cpp
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.h
@@ -21,4 +21,7 @@ CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.h
 
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.cpp
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.h
+
+CMakeFiles/c__.dir/subarraySum.cpp.o: ../subarraySum.cpp
+CMakeFiles/c__.dir/subarraySum.cpp.o: ../subarraySum.h
 

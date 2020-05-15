@@ -5,13 +5,14 @@
 //#include "lengthOfLongestSubstring.h"
 //#include "maximalSquare.h"
 //#include "mincostTickets.h"
-#include "singleNumber.h"
+//#include "singleNumber.h"
+#include "subarraySum.h"
 using namespace std;
 
 int main() {
-    vector<int> nums = {1,1,2,2,3};
-    singleNumber s;
-    cout << s.index(nums) << endl;
-    cout << s.index2(nums) << endl;
+    subarraySum s;
+    vector<int> nums={1,1,1};
+    cout << s.index(nums,2) << endl;
+    cout << s.index2(nums,2) << endl;
     return 0;
 }

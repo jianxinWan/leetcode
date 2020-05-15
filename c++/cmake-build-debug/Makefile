@@ -312,6 +312,33 @@ singleNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/singleNumber.cpp.s
 .PHONY : singleNumber.cpp.s
 
+subarraySum.o: subarraySum.cpp.o
+
+.PHONY : subarraySum.o
+
+# target to build an object file
+subarraySum.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/subarraySum.cpp.o
+.PHONY : subarraySum.cpp.o
+
+subarraySum.i: subarraySum.cpp.i
+
+.PHONY : subarraySum.i
+
+# target to preprocess a source file
+subarraySum.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/subarraySum.cpp.i
+.PHONY : subarraySum.cpp.i
+
+subarraySum.s: subarraySum.cpp.s
+
+.PHONY : subarraySum.s
+
+# target to generate assembly for a file
+subarraySum.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/subarraySum.cpp.s
+.PHONY : subarraySum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -342,6 +369,9 @@ help:
 	@echo "... singleNumber.o"
 	@echo "... singleNumber.i"
 	@echo "... singleNumber.s"
+	@echo "... subarraySum.o"
+	@echo "... subarraySum.i"
+	@echo "... subarraySum.s"
 .PHONY : help
 
 

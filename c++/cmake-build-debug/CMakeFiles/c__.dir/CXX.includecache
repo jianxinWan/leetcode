@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp
+/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
 iostream
 -
-algorithm
+string
 -
-unordered_set
+vector
 -
-singleNumber.h
-/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h
+subarraySum.h
+/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
 
-/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h
+/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.cpp
+subarraySum.h
+/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
+unordered_map
+-
+
+/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
 vector
 -
 
