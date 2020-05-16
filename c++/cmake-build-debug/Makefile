@@ -123,6 +123,33 @@ c__/fast:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
 
+isValidBST.o: isValidBST.cpp.o
+
+.PHONY : isValidBST.o
+
+# target to build an object file
+isValidBST.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.o
+.PHONY : isValidBST.cpp.o
+
+isValidBST.i: isValidBST.cpp.i
+
+.PHONY : isValidBST.i
+
+# target to preprocess a source file
+isValidBST.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.i
+.PHONY : isValidBST.cpp.i
+
+isValidBST.s: isValidBST.cpp.s
+
+.PHONY : isValidBST.s
+
+# target to generate assembly for a file
+isValidBST.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.s
+.PHONY : isValidBST.cpp.s
+
 lengthOfLastWord.o: lengthOfLastWord.cpp.o
 
 .PHONY : lengthOfLastWord.o
@@ -285,6 +312,33 @@ mincostTickets.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mincostTickets.cpp.s
 .PHONY : mincostTickets.cpp.s
 
+mySqrt.o: mySqrt.cpp.o
+
+.PHONY : mySqrt.o
+
+# target to build an object file
+mySqrt.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mySqrt.cpp.o
+.PHONY : mySqrt.cpp.o
+
+mySqrt.i: mySqrt.cpp.i
+
+.PHONY : mySqrt.i
+
+# target to preprocess a source file
+mySqrt.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mySqrt.cpp.i
+.PHONY : mySqrt.cpp.i
+
+mySqrt.s: mySqrt.cpp.s
+
+.PHONY : mySqrt.s
+
+# target to generate assembly for a file
+mySqrt.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mySqrt.cpp.s
+.PHONY : mySqrt.cpp.s
+
 singleNumber.o: singleNumber.cpp.o
 
 .PHONY : singleNumber.o
@@ -348,6 +402,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c__"
+	@echo "... isValidBST.o"
+	@echo "... isValidBST.i"
+	@echo "... isValidBST.s"
 	@echo "... lengthOfLastWord.o"
 	@echo "... lengthOfLastWord.i"
 	@echo "... lengthOfLastWord.s"
@@ -366,6 +423,9 @@ help:
 	@echo "... mincostTickets.o"
 	@echo "... mincostTickets.i"
 	@echo "... mincostTickets.s"
+	@echo "... mySqrt.o"
+	@echo "... mySqrt.i"
+	@echo "... mySqrt.s"
 	@echo "... singleNumber.o"
 	@echo "... singleNumber.i"
 	@echo "... singleNumber.s"

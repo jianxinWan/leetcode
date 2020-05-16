@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLastWord.cpp">
 			<Option target="c__"/>
 		</Unit>
@@ -111,6 +117,12 @@
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.h">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp">
