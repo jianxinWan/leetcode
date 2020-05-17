@@ -6,23 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
-iostream
--
-string
--
-vector
--
-subarraySum.h
-/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
-
-/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.cpp
-subarraySum.h
-/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
+/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp
+findOrder.h
+/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.h
 unordered_map
 -
+iostream
+-
+stack
+-
 
-/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h
+/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.h
 vector
 -
 

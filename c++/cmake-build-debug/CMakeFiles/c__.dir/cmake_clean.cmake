@@ -8,7 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/singleNumber.cpp.o"
   "CMakeFiles/c__.dir/subarraySum.cpp.o"
   "CMakeFiles/c__.dir/mySqrt.cpp.o"
-  "CMakeFiles/c__.dir/isValidBST.cpp.o"
+  "CMakeFiles/c__.dir/findOrder.cpp.o"
   "c__.pdb"
   "c__"
 )

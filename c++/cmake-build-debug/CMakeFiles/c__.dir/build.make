@@ -174,18 +174,18 @@ CMakeFiles/c__.dir/mySqrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/mySqrt.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.cpp -o CMakeFiles/c__.dir/mySqrt.cpp.s
 
-CMakeFiles/c__.dir/isValidBST.cpp.o: CMakeFiles/c__.dir/flags.make
-CMakeFiles/c__.dir/isValidBST.cpp.o: ../isValidBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/c__.dir/isValidBST.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/isValidBST.cpp.o -c /Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.cpp
+CMakeFiles/c__.dir/findOrder.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/findOrder.cpp.o: ../findOrder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/c__.dir/findOrder.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/findOrder.cpp.o -c /Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp
 
-CMakeFiles/c__.dir/isValidBST.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/isValidBST.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.cpp > CMakeFiles/c__.dir/isValidBST.cpp.i
+CMakeFiles/c__.dir/findOrder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/findOrder.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp > CMakeFiles/c__.dir/findOrder.cpp.i
 
-CMakeFiles/c__.dir/isValidBST.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/isValidBST.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.cpp -o CMakeFiles/c__.dir/isValidBST.cpp.s
+CMakeFiles/c__.dir/findOrder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/findOrder.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp -o CMakeFiles/c__.dir/findOrder.cpp.s
 
 # Object files for target c__
 c___OBJECTS = \
@@ -198,7 +198,7 @@ c___OBJECTS = \
 "CMakeFiles/c__.dir/singleNumber.cpp.o" \
 "CMakeFiles/c__.dir/subarraySum.cpp.o" \
 "CMakeFiles/c__.dir/mySqrt.cpp.o" \
-"CMakeFiles/c__.dir/isValidBST.cpp.o"
+"CMakeFiles/c__.dir/findOrder.cpp.o"
 
 # External object files for target c__
 c___EXTERNAL_OBJECTS =
@@ -212,7 +212,7 @@ c__: CMakeFiles/c__.dir/mincostTickets.cpp.o
 c__: CMakeFiles/c__.dir/singleNumber.cpp.o
 c__: CMakeFiles/c__.dir/subarraySum.cpp.o
 c__: CMakeFiles/c__.dir/mySqrt.cpp.o
-c__: CMakeFiles/c__.dir/isValidBST.cpp.o
+c__: CMakeFiles/c__.dir/findOrder.cpp.o
 c__: CMakeFiles/c__.dir/build.make
 c__: CMakeFiles/c__.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable c__"
