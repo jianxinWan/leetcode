@@ -7,15 +7,13 @@
 //#include "mincostTickets.h"
 //#include "singleNumber.h"
 //#include "subarraySum.h"
-#include "findOrder.h"
+//#include "findOrder.h"
+#include "maxProduct.h"
 using namespace std;
 
 int main() {
-    findOrder f;
-    vector<vector<int>> prerequisites={{1,0},{2,0},{3,1},{3,2}};
-    vector<int> res = f.index(4,prerequisites);
-    for(int i=0;i<res.size();i++){
-        cout << res[i] << endl;
-    }
+    maxProduct m;
+    vector<int> nums={2,3,-4,6,7,8};
+    cout << m.index(nums) << endl;
     return 0;
 }

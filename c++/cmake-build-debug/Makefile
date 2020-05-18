@@ -231,6 +231,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+maxProduct.o: maxProduct.cpp.o
+
+.PHONY : maxProduct.o
+
+# target to build an object file
+maxProduct.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxProduct.cpp.o
+.PHONY : maxProduct.cpp.o
+
+maxProduct.i: maxProduct.cpp.i
+
+.PHONY : maxProduct.i
+
+# target to preprocess a source file
+maxProduct.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxProduct.cpp.i
+.PHONY : maxProduct.cpp.i
+
+maxProduct.s: maxProduct.cpp.s
+
+.PHONY : maxProduct.s
+
+# target to generate assembly for a file
+maxProduct.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxProduct.cpp.s
+.PHONY : maxProduct.cpp.s
+
 maximalSquare.o: maximalSquare.cpp.o
 
 .PHONY : maximalSquare.o
@@ -414,6 +441,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... maxProduct.o"
+	@echo "... maxProduct.i"
+	@echo "... maxProduct.s"
 	@echo "... maximalSquare.o"
 	@echo "... maximalSquare.i"
 	@echo "... maximalSquare.s"
