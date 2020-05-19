@@ -107,6 +107,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.cpp">
 			<Option target="c__"/>
 		</Unit>

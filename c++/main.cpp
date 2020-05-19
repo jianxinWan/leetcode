@@ -8,11 +8,12 @@
 //#include "singleNumber.h"
 //#include "subarraySum.h"
 //#include "findOrder.h"
-#include "maxProduct.h"
+//#include "maxProduct.h"
+#include "maxSubArray.h"
 using namespace std;
 
 int main() {
-    maxProduct m;
+    maxSubArray m;
     vector<int> nums={2,3,-4,6,7,8};
     cout << m.index(nums) << endl;
     return 0;

@@ -12,10 +12,13 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.h
 CMakeFiles/c__.dir/main.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
- /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
+ /Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h
 CMakeFiles/c__.dir/maxProduct.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
+CMakeFiles/c__.dir/maxSubArray.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h
 CMakeFiles/c__.dir/maximalSquare.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/maximalSquare.h

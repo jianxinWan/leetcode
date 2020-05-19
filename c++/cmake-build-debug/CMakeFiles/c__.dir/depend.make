@@ -11,10 +11,13 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.c
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
-CMakeFiles/c__.dir/main.cpp.o: ../maxProduct.h
+CMakeFiles/c__.dir/main.cpp.o: ../maxSubArray.h
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.h
+
+CMakeFiles/c__.dir/maxSubArray.cpp.o: ../maxSubArray.cpp
+CMakeFiles/c__.dir/maxSubArray.cpp.o: ../maxSubArray.h
 
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.cpp
 CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.h

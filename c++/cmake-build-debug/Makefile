@@ -258,6 +258,33 @@ maxProduct.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxProduct.cpp.s
 .PHONY : maxProduct.cpp.s
 
+maxSubArray.o: maxSubArray.cpp.o
+
+.PHONY : maxSubArray.o
+
+# target to build an object file
+maxSubArray.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxSubArray.cpp.o
+.PHONY : maxSubArray.cpp.o
+
+maxSubArray.i: maxSubArray.cpp.i
+
+.PHONY : maxSubArray.i
+
+# target to preprocess a source file
+maxSubArray.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxSubArray.cpp.i
+.PHONY : maxSubArray.cpp.i
+
+maxSubArray.s: maxSubArray.cpp.s
+
+.PHONY : maxSubArray.s
+
+# target to generate assembly for a file
+maxSubArray.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/maxSubArray.cpp.s
+.PHONY : maxSubArray.cpp.s
+
 maximalSquare.o: maximalSquare.cpp.o
 
 .PHONY : maximalSquare.o
@@ -444,6 +471,9 @@ help:
 	@echo "... maxProduct.o"
 	@echo "... maxProduct.i"
 	@echo "... maxProduct.s"
+	@echo "... maxSubArray.o"
+	@echo "... maxSubArray.i"
+	@echo "... maxSubArray.s"
 	@echo "... maximalSquare.o"
 	@echo "... maximalSquare.i"
 	@echo "... maximalSquare.s"

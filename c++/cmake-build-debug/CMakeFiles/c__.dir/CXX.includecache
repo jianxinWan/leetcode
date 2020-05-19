@@ -6,20 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp
-findOrder.h
-/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.h
-unordered_map
--
-iostream
--
-stack
--
-
-/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.h
-vector
--
-
 /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
 iostream
 -
@@ -27,14 +13,22 @@ string
 -
 vector
 -
-maxProduct.h
-/Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
+maxSubArray.h
+/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h
 
 /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.cpp
 maxProduct.h
 /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
 
 /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
+vector
+-
+
+/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.cpp
+maxSubArray.h
+/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/maxSubArray.h
 vector
 -
 
