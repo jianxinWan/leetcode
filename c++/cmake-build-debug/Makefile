@@ -150,6 +150,33 @@ findOrder.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/findOrder.cpp.s
 .PHONY : findOrder.cpp.s
 
+isValidBST.o: isValidBST.cpp.o
+
+.PHONY : isValidBST.o
+
+# target to build an object file
+isValidBST.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.o
+.PHONY : isValidBST.cpp.o
+
+isValidBST.i: isValidBST.cpp.i
+
+.PHONY : isValidBST.i
+
+# target to preprocess a source file
+isValidBST.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.i
+.PHONY : isValidBST.cpp.i
+
+isValidBST.s: isValidBST.cpp.s
+
+.PHONY : isValidBST.s
+
+# target to generate assembly for a file
+isValidBST.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.s
+.PHONY : isValidBST.cpp.s
+
 lengthOfLastWord.o: lengthOfLastWord.cpp.o
 
 .PHONY : lengthOfLastWord.o
@@ -459,6 +486,9 @@ help:
 	@echo "... findOrder.o"
 	@echo "... findOrder.i"
 	@echo "... findOrder.s"
+	@echo "... isValidBST.o"
+	@echo "... isValidBST.i"
+	@echo "... isValidBST.s"
 	@echo "... lengthOfLastWord.o"
 	@echo "... lengthOfLastWord.i"
 	@echo "... lengthOfLastWord.s"
