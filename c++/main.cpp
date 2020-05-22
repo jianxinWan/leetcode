@@ -9,12 +9,13 @@
 //#include "subarraySum.h"
 //#include "findOrder.h"
 //#include "maxProduct.h"
-#include "maxSubArray.h"
+//#include "maxSubArray.h"
+#include "longestPalindrome.h"
 using namespace std;
 
 int main() {
-    maxSubArray m;
-    vector<int> nums={2,3,-4,6,7,8};
-    cout << m.index(nums) << endl;
+    longestPalindrome m;
+    cout << m.index("ababc") << endl;
+    cout << m.index2("babad") << endl;
     return 0;
 }

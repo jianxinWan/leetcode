@@ -104,6 +104,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp">
 			<Option target="c__"/>
 		</Unit>

@@ -231,6 +231,33 @@ lengthOfLongestSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.s
 .PHONY : lengthOfLongestSubstring.cpp.s
 
+longestPalindrome.o: longestPalindrome.cpp.o
+
+.PHONY : longestPalindrome.o
+
+# target to build an object file
+longestPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestPalindrome.cpp.o
+.PHONY : longestPalindrome.cpp.o
+
+longestPalindrome.i: longestPalindrome.cpp.i
+
+.PHONY : longestPalindrome.i
+
+# target to preprocess a source file
+longestPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestPalindrome.cpp.i
+.PHONY : longestPalindrome.cpp.i
+
+longestPalindrome.s: longestPalindrome.cpp.s
+
+.PHONY : longestPalindrome.s
+
+# target to generate assembly for a file
+longestPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestPalindrome.cpp.s
+.PHONY : longestPalindrome.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -495,6 +522,9 @@ help:
 	@echo "... lengthOfLongestSubstring.o"
 	@echo "... lengthOfLongestSubstring.i"
 	@echo "... lengthOfLongestSubstring.s"
+	@echo "... longestPalindrome.o"
+	@echo "... longestPalindrome.i"
+	@echo "... longestPalindrome.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

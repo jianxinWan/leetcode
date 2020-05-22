@@ -4,14 +4,20 @@
 CMakeFiles/c__.dir/findOrder.cpp.o: ../findOrder.cpp
 CMakeFiles/c__.dir/findOrder.cpp.o: ../findOrder.h
 
+CMakeFiles/c__.dir/isValidBST.cpp.o: ../isValidBST.cpp
+CMakeFiles/c__.dir/isValidBST.cpp.o: ../isValidBST.h
+
 CMakeFiles/c__.dir/lengthOfLastWord.cpp.o: ../lengthOfLastWord.cpp
 CMakeFiles/c__.dir/lengthOfLastWord.cpp.o: ../lengthOfLastWord.h
 
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.cpp
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 
+CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.cpp
+CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.h
+
+CMakeFiles/c__.dir/main.cpp.o: ../longestPalindrome.h
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
-CMakeFiles/c__.dir/main.cpp.o: ../maxSubArray.h
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.h
