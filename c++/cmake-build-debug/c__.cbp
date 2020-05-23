@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.cpp">
 			<Option target="c__"/>
 		</Unit>
@@ -90,6 +96,12 @@
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.h">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLastWord.cpp">

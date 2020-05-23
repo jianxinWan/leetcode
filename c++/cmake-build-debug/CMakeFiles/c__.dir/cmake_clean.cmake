@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/maxSubArray.cpp.o"
   "CMakeFiles/c__.dir/isValidBST.cpp.o"
   "CMakeFiles/c__.dir/longestPalindrome.cpp.o"
+  "CMakeFiles/c__.dir/largestSumOfAverages.cpp.o"
+  "CMakeFiles/c__.dir/divisorGame.cpp.o"
   "c__.pdb"
   "c__"
 )

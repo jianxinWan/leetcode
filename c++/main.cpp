@@ -10,12 +10,12 @@
 //#include "findOrder.h"
 //#include "maxProduct.h"
 //#include "maxSubArray.h"
-#include "longestPalindrome.h"
+//#include "longestPalindrome.h"
+#include "divisorGame.h"
 using namespace std;
 
 int main() {
-    longestPalindrome m;
-    cout << m.index("ababc") << endl;
-    cout << m.index2("babad") << endl;
+    divisorGame d;
+    cout << d.index(2) << endl;
     return 0;
 }

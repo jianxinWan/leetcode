@@ -123,6 +123,33 @@ c__/fast:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
 
+divisorGame.o: divisorGame.cpp.o
+
+.PHONY : divisorGame.o
+
+# target to build an object file
+divisorGame.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/divisorGame.cpp.o
+.PHONY : divisorGame.cpp.o
+
+divisorGame.i: divisorGame.cpp.i
+
+.PHONY : divisorGame.i
+
+# target to preprocess a source file
+divisorGame.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/divisorGame.cpp.i
+.PHONY : divisorGame.cpp.i
+
+divisorGame.s: divisorGame.cpp.s
+
+.PHONY : divisorGame.s
+
+# target to generate assembly for a file
+divisorGame.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/divisorGame.cpp.s
+.PHONY : divisorGame.cpp.s
+
 findOrder.o: findOrder.cpp.o
 
 .PHONY : findOrder.o
@@ -176,6 +203,33 @@ isValidBST.s: isValidBST.cpp.s
 isValidBST.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.s
 .PHONY : isValidBST.cpp.s
+
+largestSumOfAverages.o: largestSumOfAverages.cpp.o
+
+.PHONY : largestSumOfAverages.o
+
+# target to build an object file
+largestSumOfAverages.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/largestSumOfAverages.cpp.o
+.PHONY : largestSumOfAverages.cpp.o
+
+largestSumOfAverages.i: largestSumOfAverages.cpp.i
+
+.PHONY : largestSumOfAverages.i
+
+# target to preprocess a source file
+largestSumOfAverages.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/largestSumOfAverages.cpp.i
+.PHONY : largestSumOfAverages.cpp.i
+
+largestSumOfAverages.s: largestSumOfAverages.cpp.s
+
+.PHONY : largestSumOfAverages.s
+
+# target to generate assembly for a file
+largestSumOfAverages.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/largestSumOfAverages.cpp.s
+.PHONY : largestSumOfAverages.cpp.s
 
 lengthOfLastWord.o: lengthOfLastWord.cpp.o
 
@@ -510,12 +564,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c__"
+	@echo "... divisorGame.o"
+	@echo "... divisorGame.i"
+	@echo "... divisorGame.s"
 	@echo "... findOrder.o"
 	@echo "... findOrder.i"
 	@echo "... findOrder.s"
 	@echo "... isValidBST.o"
 	@echo "... isValidBST.i"
 	@echo "... isValidBST.s"
+	@echo "... largestSumOfAverages.o"
+	@echo "... largestSumOfAverages.i"
+	@echo "... largestSumOfAverages.s"
 	@echo "... lengthOfLastWord.o"
 	@echo "... lengthOfLastWord.i"
 	@echo "... lengthOfLastWord.s"
