@@ -447,6 +447,33 @@ merge.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/merge.cpp.s
 .PHONY : merge.cpp.s
 
+minCostToMoveChips.o: minCostToMoveChips.cpp.o
+
+.PHONY : minCostToMoveChips.o
+
+# target to build an object file
+minCostToMoveChips.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/minCostToMoveChips.cpp.o
+.PHONY : minCostToMoveChips.cpp.o
+
+minCostToMoveChips.i: minCostToMoveChips.cpp.i
+
+.PHONY : minCostToMoveChips.i
+
+# target to preprocess a source file
+minCostToMoveChips.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/minCostToMoveChips.cpp.i
+.PHONY : minCostToMoveChips.cpp.i
+
+minCostToMoveChips.s: minCostToMoveChips.cpp.s
+
+.PHONY : minCostToMoveChips.s
+
+# target to generate assembly for a file
+minCostToMoveChips.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/minCostToMoveChips.cpp.s
+.PHONY : minCostToMoveChips.cpp.s
+
 mincostTickets.o: mincostTickets.cpp.o
 
 .PHONY : mincostTickets.o
@@ -600,6 +627,9 @@ help:
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"
+	@echo "... minCostToMoveChips.o"
+	@echo "... minCostToMoveChips.i"
+	@echo "... minCostToMoveChips.s"
 	@echo "... mincostTickets.o"
 	@echo "... mincostTickets.i"
 	@echo "... mincostTickets.s"

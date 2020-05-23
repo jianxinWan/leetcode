@@ -37,6 +37,9 @@ CMakeFiles/c__.dir/maximalSquare.cpp.o: ../maximalSquare.h
 CMakeFiles/c__.dir/merge.cpp.o: ../merge.cpp
 CMakeFiles/c__.dir/merge.cpp.o: ../merge.h
 
+CMakeFiles/c__.dir/minCostToMoveChips.cpp.o: ../minCostToMoveChips.cpp
+CMakeFiles/c__.dir/minCostToMoveChips.cpp.o: ../minCostToMoveChips.h
+
 CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.cpp
 CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.h
 

@@ -149,6 +149,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/merge.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp">
 			<Option target="c__"/>
 		</Unit>

@@ -12,35 +12,13 @@ divisorGame.h
 
 /Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.h
 
-/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.cpp
-largestSumOfAverages.h
-/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.h
+/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.cpp
+minCostToMoveChips.h
+/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.h
+unordered_map
+-
 
-/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.h
+/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.h
 vector
 -
-
-/Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.cpp
-vector
--
-longestPalindrome.h
-/Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h
-iostream
--
-string
--
-
-/Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h
-string
--
-
-/Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
-iostream
--
-string
--
-vector
--
-divisorGame.h
-/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.h
 
