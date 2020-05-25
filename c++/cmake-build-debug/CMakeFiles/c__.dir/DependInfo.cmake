@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/minCostToMoveChips.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/mincostTickets.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/mincostTickets.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/mySqrt.cpp.o"
+  "/Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/nextPermutation.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/singleNumber.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/subarraySum.cpp.o"
   )

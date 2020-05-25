@@ -528,6 +528,33 @@ mySqrt.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mySqrt.cpp.s
 .PHONY : mySqrt.cpp.s
 
+nextPermutation.o: nextPermutation.cpp.o
+
+.PHONY : nextPermutation.o
+
+# target to build an object file
+nextPermutation.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/nextPermutation.cpp.o
+.PHONY : nextPermutation.cpp.o
+
+nextPermutation.i: nextPermutation.cpp.i
+
+.PHONY : nextPermutation.i
+
+# target to preprocess a source file
+nextPermutation.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/nextPermutation.cpp.i
+.PHONY : nextPermutation.cpp.i
+
+nextPermutation.s: nextPermutation.cpp.s
+
+.PHONY : nextPermutation.s
+
+# target to generate assembly for a file
+nextPermutation.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/nextPermutation.cpp.s
+.PHONY : nextPermutation.cpp.s
+
 singleNumber.o: singleNumber.cpp.o
 
 .PHONY : singleNumber.o
@@ -636,6 +663,9 @@ help:
 	@echo "... mySqrt.o"
 	@echo "... mySqrt.i"
 	@echo "... mySqrt.s"
+	@echo "... nextPermutation.o"
+	@echo "... nextPermutation.i"
+	@echo "... nextPermutation.s"
 	@echo "... singleNumber.o"
 	@echo "... singleNumber.i"
 	@echo "... singleNumber.s"

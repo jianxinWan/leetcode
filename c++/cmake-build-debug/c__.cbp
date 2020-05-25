@@ -167,6 +167,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp">
 			<Option target="c__"/>
 		</Unit>
