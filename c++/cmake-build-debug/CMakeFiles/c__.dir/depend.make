@@ -22,8 +22,8 @@ CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.cpp
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.h
 
-CMakeFiles/c__.dir/main.cpp.o: ../divisorGame.h
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
+CMakeFiles/c__.dir/main.cpp.o: ../threeSum.h
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.h
@@ -46,9 +46,15 @@ CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.h
 CMakeFiles/c__.dir/mySqrt.cpp.o: ../mySqrt.cpp
 CMakeFiles/c__.dir/mySqrt.cpp.o: ../mySqrt.h
 
+CMakeFiles/c__.dir/nextPermutation.cpp.o: ../nextPermutation.cpp
+CMakeFiles/c__.dir/nextPermutation.cpp.o: ../nextPermutation.h
+
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.cpp
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.h
 
 CMakeFiles/c__.dir/subarraySum.cpp.o: ../subarraySum.cpp
 CMakeFiles/c__.dir/subarraySum.cpp.o: ../subarraySum.h
+
+CMakeFiles/c__.dir/threeSum.cpp.o: ../threeSum.cpp
+CMakeFiles/c__.dir/threeSum.cpp.o: ../threeSum.h
 

@@ -609,6 +609,33 @@ subarraySum.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/subarraySum.cpp.s
 .PHONY : subarraySum.cpp.s
 
+threeSum.o: threeSum.cpp.o
+
+.PHONY : threeSum.o
+
+# target to build an object file
+threeSum.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/threeSum.cpp.o
+.PHONY : threeSum.cpp.o
+
+threeSum.i: threeSum.cpp.i
+
+.PHONY : threeSum.i
+
+# target to preprocess a source file
+threeSum.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/threeSum.cpp.i
+.PHONY : threeSum.cpp.i
+
+threeSum.s: threeSum.cpp.s
+
+.PHONY : threeSum.s
+
+# target to generate assembly for a file
+threeSum.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/threeSum.cpp.s
+.PHONY : threeSum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -672,6 +699,9 @@ help:
 	@echo "... subarraySum.o"
 	@echo "... subarraySum.i"
 	@echo "... subarraySum.s"
+	@echo "... threeSum.o"
+	@echo "... threeSum.i"
+	@echo "... threeSum.s"
 .PHONY : help
 
 

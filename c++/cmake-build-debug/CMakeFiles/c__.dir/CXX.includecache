@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.cpp
-divisorGame.h
-/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.h
-
-/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.h
-
-/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.cpp
-minCostToMoveChips.h
-/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.h
-unordered_map
+/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.cpp
+threeSum.h
+/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.h
+iostream
 -
 
-/Users/wanjianxin/xiaowan/leetcode/c++/minCostToMoveChips.h
+/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.h
 vector
 -
 
