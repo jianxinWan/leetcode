@@ -555,6 +555,33 @@ nextPermutation.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/nextPermutation.cpp.s
 .PHONY : nextPermutation.cpp.s
 
+rob.o: rob.cpp.o
+
+.PHONY : rob.o
+
+# target to build an object file
+rob.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/rob.cpp.o
+.PHONY : rob.cpp.o
+
+rob.i: rob.cpp.i
+
+.PHONY : rob.i
+
+# target to preprocess a source file
+rob.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/rob.cpp.i
+.PHONY : rob.cpp.i
+
+rob.s: rob.cpp.s
+
+.PHONY : rob.s
+
+# target to generate assembly for a file
+rob.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/rob.cpp.s
+.PHONY : rob.cpp.s
+
 singleNumber.o: singleNumber.cpp.o
 
 .PHONY : singleNumber.o
@@ -693,6 +720,9 @@ help:
 	@echo "... nextPermutation.o"
 	@echo "... nextPermutation.i"
 	@echo "... nextPermutation.s"
+	@echo "... rob.o"
+	@echo "... rob.i"
+	@echo "... rob.s"
 	@echo "... singleNumber.o"
 	@echo "... singleNumber.i"
 	@echo "... singleNumber.s"

@@ -12,19 +12,13 @@
 //#include "maxSubArray.h"
 //#include "longestPalindrome.h"
 //#include "divisorGame.h"
-#include "threeSum.h"
+//#include "threeSum.h"
+#include "rob.h"
 using namespace std;
 
 int main() {
-    threeSum t;
-    vector<int> nums={1,-1,-1,0};
-    vector<vector<int>> res;
-    res = t.index(nums);
-    for(int i=0;i<res.size();i++){
-        for(int j=0;j<res[i].size();j++){
-            cout << res[i][j] << ',';
-        }
-        cout << endl;
-    }
+    rob r;
+    vector<int> nums={1,3,1,3,100};
+    cout << r.index(nums) << endl;
     return 0;
 }
