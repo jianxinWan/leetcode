@@ -13,12 +13,13 @@
 //#include "longestPalindrome.h"
 //#include "divisorGame.h"
 //#include "threeSum.h"
-#include "rob.h"
+//#include "rob.h"
+#include "searchInsert.h"
 using namespace std;
 
 int main() {
-    rob r;
-    vector<int> nums={1,3,1,3,100};
-    cout << r.index(nums) << endl;
+    searchInsert s;
+    vector<int> nums={1,2,5,7,8};
+    cout << s.index(nums,3) << endl;
     return 0;
 }

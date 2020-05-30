@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/divisorGame.cpp">
 			<Option target="c__"/>
 		</Unit>
@@ -177,6 +183,12 @@
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/rob.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.h">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp">

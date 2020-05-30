@@ -24,7 +24,7 @@ CMakeFiles/c__.dir/longestPalindrome.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h
 CMakeFiles/c__.dir/main.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
- /Users/wanjianxin/xiaowan/leetcode/c++/rob.h
+ /Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.h
 CMakeFiles/c__.dir/maxProduct.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
@@ -52,6 +52,9 @@ CMakeFiles/c__.dir/nextPermutation.cpp.o
 CMakeFiles/c__.dir/rob.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/rob.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/rob.h
+CMakeFiles/c__.dir/searchInsert.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.h
 CMakeFiles/c__.dir/singleNumber.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/singleNumber.h

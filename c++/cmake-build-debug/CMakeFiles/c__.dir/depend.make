@@ -23,7 +23,7 @@ CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.cpp
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.h
 
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
-CMakeFiles/c__.dir/main.cpp.o: ../rob.h
+CMakeFiles/c__.dir/main.cpp.o: ../searchInsert.h
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.h
@@ -51,6 +51,9 @@ CMakeFiles/c__.dir/nextPermutation.cpp.o: ../nextPermutation.h
 
 CMakeFiles/c__.dir/rob.cpp.o: ../rob.cpp
 CMakeFiles/c__.dir/rob.cpp.o: ../rob.h
+
+CMakeFiles/c__.dir/searchInsert.cpp.o: ../searchInsert.cpp
+CMakeFiles/c__.dir/searchInsert.cpp.o: ../searchInsert.h
 
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.cpp
 CMakeFiles/c__.dir/singleNumber.cpp.o: ../singleNumber.h

@@ -123,6 +123,33 @@ c__/fast:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
 
+countAndSay.o: countAndSay.cpp.o
+
+.PHONY : countAndSay.o
+
+# target to build an object file
+countAndSay.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/countAndSay.cpp.o
+.PHONY : countAndSay.cpp.o
+
+countAndSay.i: countAndSay.cpp.i
+
+.PHONY : countAndSay.i
+
+# target to preprocess a source file
+countAndSay.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/countAndSay.cpp.i
+.PHONY : countAndSay.cpp.i
+
+countAndSay.s: countAndSay.cpp.s
+
+.PHONY : countAndSay.s
+
+# target to generate assembly for a file
+countAndSay.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/countAndSay.cpp.s
+.PHONY : countAndSay.cpp.s
+
 divisorGame.o: divisorGame.cpp.o
 
 .PHONY : divisorGame.o
@@ -582,6 +609,33 @@ rob.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/rob.cpp.s
 .PHONY : rob.cpp.s
 
+searchInsert.o: searchInsert.cpp.o
+
+.PHONY : searchInsert.o
+
+# target to build an object file
+searchInsert.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/searchInsert.cpp.o
+.PHONY : searchInsert.cpp.o
+
+searchInsert.i: searchInsert.cpp.i
+
+.PHONY : searchInsert.i
+
+# target to preprocess a source file
+searchInsert.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/searchInsert.cpp.i
+.PHONY : searchInsert.cpp.i
+
+searchInsert.s: searchInsert.cpp.s
+
+.PHONY : searchInsert.s
+
+# target to generate assembly for a file
+searchInsert.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/searchInsert.cpp.s
+.PHONY : searchInsert.cpp.s
+
 singleNumber.o: singleNumber.cpp.o
 
 .PHONY : singleNumber.o
@@ -672,6 +726,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c__"
+	@echo "... countAndSay.o"
+	@echo "... countAndSay.i"
+	@echo "... countAndSay.s"
 	@echo "... divisorGame.o"
 	@echo "... divisorGame.i"
 	@echo "... divisorGame.s"
@@ -723,6 +780,9 @@ help:
 	@echo "... rob.o"
 	@echo "... rob.i"
 	@echo "... rob.s"
+	@echo "... searchInsert.o"
+	@echo "... searchInsert.i"
+	@echo "... searchInsert.s"
 	@echo "... singleNumber.o"
 	@echo "... singleNumber.i"
 	@echo "... singleNumber.s"

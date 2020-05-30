@@ -4,6 +4,11 @@
 
 #include "rob.h"
 #include <iostream>
+/**
+ * 打家劫舍
+ * @param nums
+ * @return
+ */
 int rob::index(vector<int> &nums) {
 //    if(nums.size() == 1){
 //        return nums[0];

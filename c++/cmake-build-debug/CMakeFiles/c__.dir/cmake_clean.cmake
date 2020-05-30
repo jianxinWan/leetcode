@@ -19,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/nextPermutation.cpp.o"
   "CMakeFiles/c__.dir/threeSum.cpp.o"
   "CMakeFiles/c__.dir/rob.cpp.o"
+  "CMakeFiles/c__.dir/searchInsert.cpp.o"
+  "CMakeFiles/c__.dir/countAndSay.cpp.o"
   "c__.pdb"
   "c__"
 )
