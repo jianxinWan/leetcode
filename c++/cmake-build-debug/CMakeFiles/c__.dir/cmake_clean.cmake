@@ -21,6 +21,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/rob.cpp.o"
   "CMakeFiles/c__.dir/searchInsert.cpp.o"
   "CMakeFiles/c__.dir/countAndSay.cpp.o"
+  "CMakeFiles/c__.dir/isSymmetric.cpp.o"
   "c__.pdb"
   "c__"
 )

@@ -98,6 +98,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/findOrder.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isSymmetric.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isSymmetric.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.cpp">
 			<Option target="c__"/>
 		</Unit>
