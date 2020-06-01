@@ -258,6 +258,33 @@ isValidBST.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/isValidBST.cpp.s
 .PHONY : isValidBST.cpp.s
 
+kidsWithCandies.o: kidsWithCandies.cpp.o
+
+.PHONY : kidsWithCandies.o
+
+# target to build an object file
+kidsWithCandies.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/kidsWithCandies.cpp.o
+.PHONY : kidsWithCandies.cpp.o
+
+kidsWithCandies.i: kidsWithCandies.cpp.i
+
+.PHONY : kidsWithCandies.i
+
+# target to preprocess a source file
+kidsWithCandies.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/kidsWithCandies.cpp.i
+.PHONY : kidsWithCandies.cpp.i
+
+kidsWithCandies.s: kidsWithCandies.cpp.s
+
+.PHONY : kidsWithCandies.s
+
+# target to generate assembly for a file
+kidsWithCandies.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/kidsWithCandies.cpp.s
+.PHONY : kidsWithCandies.cpp.s
+
 largestSumOfAverages.o: largestSumOfAverages.cpp.o
 
 .PHONY : largestSumOfAverages.o
@@ -768,6 +795,9 @@ help:
 	@echo "... isValidBST.o"
 	@echo "... isValidBST.i"
 	@echo "... isValidBST.s"
+	@echo "... kidsWithCandies.o"
+	@echo "... kidsWithCandies.i"
+	@echo "... kidsWithCandies.s"
 	@echo "... largestSumOfAverages.o"
 	@echo "... largestSumOfAverages.i"
 	@echo "... largestSumOfAverages.s"

@@ -110,6 +110,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/isValidBST.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/kidsWithCandies.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/kidsWithCandies.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/largestSumOfAverages.cpp">
 			<Option target="c__"/>
 		</Unit>
