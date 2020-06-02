@@ -6,6 +6,38 @@
 
 #IncludeRegexTransform: 
 
+/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.cpp
+addTwoNumbers.h
+/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.h
+stack
+-
+
+/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.cpp
+countAndSay.h
+/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.h
+stack
+-
+
+/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.h
+string
+-
+
+/Users/wanjianxin/xiaowan/leetcode/c++/isSymmetric.cpp
+isSymmetric.h
+/Users/wanjianxin/xiaowan/leetcode/c++/isSymmetric.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/isSymmetric.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/kidsWithCandies.cpp
+kidsWithCandies.h
+/Users/wanjianxin/xiaowan/leetcode/c++/kidsWithCandies.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/kidsWithCandies.h
+vector
+-
+
 /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
 iostream
 -
@@ -13,10 +45,22 @@ string
 -
 vector
 -
+addTwoNumbers.h
+/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.cpp
 searchInsert.h
 /Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.h
 
 /Users/wanjianxin/xiaowan/leetcode/c++/searchInsert.h
 vector
 -
+
+/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.cpp
+math.h
+-
+sumNums.h
+/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.h
+
+/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.h
 

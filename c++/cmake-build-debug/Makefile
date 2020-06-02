@@ -123,6 +123,33 @@ c__/fast:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
 
+addTwoNumbers.o: addTwoNumbers.cpp.o
+
+.PHONY : addTwoNumbers.o
+
+# target to build an object file
+addTwoNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/addTwoNumbers.cpp.o
+.PHONY : addTwoNumbers.cpp.o
+
+addTwoNumbers.i: addTwoNumbers.cpp.i
+
+.PHONY : addTwoNumbers.i
+
+# target to preprocess a source file
+addTwoNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/addTwoNumbers.cpp.i
+.PHONY : addTwoNumbers.cpp.i
+
+addTwoNumbers.s: addTwoNumbers.cpp.s
+
+.PHONY : addTwoNumbers.s
+
+# target to generate assembly for a file
+addTwoNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/addTwoNumbers.cpp.s
+.PHONY : addTwoNumbers.cpp.s
+
 countAndSay.o: countAndSay.cpp.o
 
 .PHONY : countAndSay.o
@@ -744,6 +771,33 @@ subarraySum.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/subarraySum.cpp.s
 .PHONY : subarraySum.cpp.s
 
+sumNums.o: sumNums.cpp.o
+
+.PHONY : sumNums.o
+
+# target to build an object file
+sumNums.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sumNums.cpp.o
+.PHONY : sumNums.cpp.o
+
+sumNums.i: sumNums.cpp.i
+
+.PHONY : sumNums.i
+
+# target to preprocess a source file
+sumNums.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sumNums.cpp.i
+.PHONY : sumNums.cpp.i
+
+sumNums.s: sumNums.cpp.s
+
+.PHONY : sumNums.s
+
+# target to generate assembly for a file
+sumNums.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sumNums.cpp.s
+.PHONY : sumNums.cpp.s
+
 threeSum.o: threeSum.cpp.o
 
 .PHONY : threeSum.o
@@ -780,6 +834,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c__"
+	@echo "... addTwoNumbers.o"
+	@echo "... addTwoNumbers.i"
+	@echo "... addTwoNumbers.s"
 	@echo "... countAndSay.o"
 	@echo "... countAndSay.i"
 	@echo "... countAndSay.s"
@@ -849,6 +906,9 @@ help:
 	@echo "... subarraySum.o"
 	@echo "... subarraySum.i"
 	@echo "... subarraySum.s"
+	@echo "... sumNums.o"
+	@echo "... sumNums.i"
+	@echo "... sumNums.s"
 	@echo "... threeSum.o"
 	@echo "... threeSum.i"
 	@echo "... threeSum.s"

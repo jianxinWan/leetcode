@@ -23,6 +23,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/countAndSay.cpp.o"
   "CMakeFiles/c__.dir/isSymmetric.cpp.o"
   "CMakeFiles/c__.dir/kidsWithCandies.cpp.o"
+  "CMakeFiles/c__.dir/sumNums.cpp.o"
+  "CMakeFiles/c__.dir/addTwoNumbers.cpp.o"
   "c__.pdb"
   "c__"
 )

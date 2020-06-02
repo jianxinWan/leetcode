@@ -14,12 +14,19 @@
 //#include "divisorGame.h"
 //#include "threeSum.h"
 //#include "rob.h"
-#include "searchInsert.h"
+//#include "searchInsert.h"
+#include "addTwoNumbers.h"
 using namespace std;
 
 int main() {
-    searchInsert s;
-    vector<int> nums={1,2,5,7,8};
-    cout << s.index(nums,3) << endl;
+    addTwoNumbers a;
+    ListNode* list;
+    ListNode* list1;
+    ListNode* list2;
+    list = a.index(list1,list2);
+    while (list){
+        cout << list->val << endl;
+        list = list->next;
+    }
     return 0;
 }

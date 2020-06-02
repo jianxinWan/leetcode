@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/countAndSay.cpp">
 			<Option target="c__"/>
 		</Unit>
@@ -213,6 +219,12 @@
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.h">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.h">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.cpp">
