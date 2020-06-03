@@ -636,6 +636,33 @@ mySqrt.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/mySqrt.cpp.s
 .PHONY : mySqrt.cpp.s
 
+new21Game.o: new21Game.cpp.o
+
+.PHONY : new21Game.o
+
+# target to build an object file
+new21Game.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/new21Game.cpp.o
+.PHONY : new21Game.cpp.o
+
+new21Game.i: new21Game.cpp.i
+
+.PHONY : new21Game.i
+
+# target to preprocess a source file
+new21Game.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/new21Game.cpp.i
+.PHONY : new21Game.cpp.i
+
+new21Game.s: new21Game.cpp.s
+
+.PHONY : new21Game.s
+
+# target to generate assembly for a file
+new21Game.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/new21Game.cpp.s
+.PHONY : new21Game.cpp.s
+
 nextPermutation.o: nextPermutation.cpp.o
 
 .PHONY : nextPermutation.o
@@ -891,6 +918,9 @@ help:
 	@echo "... mySqrt.o"
 	@echo "... mySqrt.i"
 	@echo "... mySqrt.s"
+	@echo "... new21Game.o"
+	@echo "... new21Game.i"
+	@echo "... new21Game.s"
 	@echo "... nextPermutation.o"
 	@echo "... nextPermutation.i"
 	@echo "... nextPermutation.s"

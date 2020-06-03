@@ -191,6 +191,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/new21Game.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/new21Game.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.cpp">
 			<Option target="c__"/>
 		</Unit>
