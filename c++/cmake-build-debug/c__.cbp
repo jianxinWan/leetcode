@@ -203,6 +203,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/productExceptSelf.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/productExceptSelf.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/rob.cpp">
 			<Option target="c__"/>
 		</Unit>

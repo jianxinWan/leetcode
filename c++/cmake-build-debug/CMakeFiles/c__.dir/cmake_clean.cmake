@@ -26,6 +26,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/sumNums.cpp.o"
   "CMakeFiles/c__.dir/addTwoNumbers.cpp.o"
   "CMakeFiles/c__.dir/new21Game.cpp.o"
+  "CMakeFiles/c__.dir/productExceptSelf.cpp.o"
   "c__.pdb"
   "c__"
 )
