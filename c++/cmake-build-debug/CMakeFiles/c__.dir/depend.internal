@@ -31,11 +31,14 @@ CMakeFiles/c__.dir/lengthOfLastWord.cpp.o
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/lengthOfLongestSubstring.h
+CMakeFiles/c__.dir/longestConsecutive.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/longestConsecutive.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/longestConsecutive.h
 CMakeFiles/c__.dir/longestPalindrome.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h
 CMakeFiles/c__.dir/main.cpp.o
- /Users/wanjianxin/xiaowan/leetcode/c++/addTwoNumbers.h
+ /Users/wanjianxin/xiaowan/leetcode/c++/longestConsecutive.h
  /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.cpp
@@ -58,9 +61,15 @@ CMakeFiles/c__.dir/mincostTickets.cpp.o
 CMakeFiles/c__.dir/mySqrt.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/mySqrt.h
+CMakeFiles/c__.dir/new21Game.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/new21Game.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/new21Game.h
 CMakeFiles/c__.dir/nextPermutation.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/nextPermutation.h
+CMakeFiles/c__.dir/productExceptSelf.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/productExceptSelf.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/productExceptSelf.h
 CMakeFiles/c__.dir/rob.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/rob.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/rob.h

@@ -393,6 +393,33 @@ lengthOfLongestSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.s
 .PHONY : lengthOfLongestSubstring.cpp.s
 
+longestConsecutive.o: longestConsecutive.cpp.o
+
+.PHONY : longestConsecutive.o
+
+# target to build an object file
+longestConsecutive.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestConsecutive.cpp.o
+.PHONY : longestConsecutive.cpp.o
+
+longestConsecutive.i: longestConsecutive.cpp.i
+
+.PHONY : longestConsecutive.i
+
+# target to preprocess a source file
+longestConsecutive.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestConsecutive.cpp.i
+.PHONY : longestConsecutive.cpp.i
+
+longestConsecutive.s: longestConsecutive.cpp.s
+
+.PHONY : longestConsecutive.s
+
+# target to generate assembly for a file
+longestConsecutive.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/longestConsecutive.cpp.s
+.PHONY : longestConsecutive.cpp.s
+
 longestPalindrome.o: longestPalindrome.cpp.o
 
 .PHONY : longestPalindrome.o
@@ -918,6 +945,9 @@ help:
 	@echo "... lengthOfLongestSubstring.o"
 	@echo "... lengthOfLongestSubstring.i"
 	@echo "... lengthOfLongestSubstring.s"
+	@echo "... longestConsecutive.o"
+	@echo "... longestConsecutive.i"
+	@echo "... longestConsecutive.s"
 	@echo "... longestPalindrome.o"
 	@echo "... longestPalindrome.i"
 	@echo "... longestPalindrome.s"

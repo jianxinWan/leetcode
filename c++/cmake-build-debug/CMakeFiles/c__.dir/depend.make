@@ -31,10 +31,13 @@ CMakeFiles/c__.dir/lengthOfLastWord.cpp.o: ../lengthOfLastWord.h
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.cpp
 CMakeFiles/c__.dir/lengthOfLongestSubstring.cpp.o: ../lengthOfLongestSubstring.h
 
+CMakeFiles/c__.dir/longestConsecutive.cpp.o: ../longestConsecutive.cpp
+CMakeFiles/c__.dir/longestConsecutive.cpp.o: ../longestConsecutive.h
+
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.cpp
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.h
 
-CMakeFiles/c__.dir/main.cpp.o: ../addTwoNumbers.h
+CMakeFiles/c__.dir/main.cpp.o: ../longestConsecutive.h
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
@@ -58,8 +61,14 @@ CMakeFiles/c__.dir/mincostTickets.cpp.o: ../mincostTickets.h
 CMakeFiles/c__.dir/mySqrt.cpp.o: ../mySqrt.cpp
 CMakeFiles/c__.dir/mySqrt.cpp.o: ../mySqrt.h
 
+CMakeFiles/c__.dir/new21Game.cpp.o: ../new21Game.cpp
+CMakeFiles/c__.dir/new21Game.cpp.o: ../new21Game.h
+
 CMakeFiles/c__.dir/nextPermutation.cpp.o: ../nextPermutation.cpp
 CMakeFiles/c__.dir/nextPermutation.cpp.o: ../nextPermutation.h
+
+CMakeFiles/c__.dir/productExceptSelf.cpp.o: ../productExceptSelf.cpp
+CMakeFiles/c__.dir/productExceptSelf.cpp.o: ../productExceptSelf.h
 
 CMakeFiles/c__.dir/rob.cpp.o: ../rob.cpp
 CMakeFiles/c__.dir/rob.cpp.o: ../rob.h
