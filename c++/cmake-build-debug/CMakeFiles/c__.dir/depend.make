@@ -37,8 +37,8 @@ CMakeFiles/c__.dir/longestConsecutive.cpp.o: ../longestConsecutive.h
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.cpp
 CMakeFiles/c__.dir/longestPalindrome.cpp.o: ../longestPalindrome.h
 
-CMakeFiles/c__.dir/main.cpp.o: ../longestConsecutive.h
 CMakeFiles/c__.dir/main.cpp.o: ../main.cpp
+CMakeFiles/c__.dir/main.cpp.o: ../waysToChange.h
 
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.cpp
 CMakeFiles/c__.dir/maxProduct.cpp.o: ../maxProduct.h
@@ -87,4 +87,7 @@ CMakeFiles/c__.dir/sumNums.cpp.o: ../sumNums.h
 
 CMakeFiles/c__.dir/threeSum.cpp.o: ../threeSum.cpp
 CMakeFiles/c__.dir/threeSum.cpp.o: ../threeSum.h
+
+CMakeFiles/c__.dir/waysToChange.cpp.o: ../waysToChange.cpp
+CMakeFiles/c__.dir/waysToChange.cpp.o: ../waysToChange.h
 

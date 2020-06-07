@@ -906,6 +906,33 @@ threeSum.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/threeSum.cpp.s
 .PHONY : threeSum.cpp.s
 
+waysToChange.o: waysToChange.cpp.o
+
+.PHONY : waysToChange.o
+
+# target to build an object file
+waysToChange.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/waysToChange.cpp.o
+.PHONY : waysToChange.cpp.o
+
+waysToChange.i: waysToChange.cpp.i
+
+.PHONY : waysToChange.i
+
+# target to preprocess a source file
+waysToChange.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/waysToChange.cpp.i
+.PHONY : waysToChange.cpp.i
+
+waysToChange.s: waysToChange.cpp.s
+
+.PHONY : waysToChange.s
+
+# target to generate assembly for a file
+waysToChange.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/waysToChange.cpp.s
+.PHONY : waysToChange.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1002,6 +1029,9 @@ help:
 	@echo "... threeSum.o"
 	@echo "... threeSum.i"
 	@echo "... threeSum.s"
+	@echo "... waysToChange.o"
+	@echo "... waysToChange.i"
+	@echo "... waysToChange.s"
 .PHONY : help
 
 

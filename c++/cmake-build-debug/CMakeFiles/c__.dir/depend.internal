@@ -38,8 +38,8 @@ CMakeFiles/c__.dir/longestPalindrome.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/longestPalindrome.h
 CMakeFiles/c__.dir/main.cpp.o
- /Users/wanjianxin/xiaowan/leetcode/c++/longestConsecutive.h
  /Users/wanjianxin/xiaowan/leetcode/c++/main.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/waysToChange.h
 CMakeFiles/c__.dir/maxProduct.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/maxProduct.h
@@ -88,3 +88,6 @@ CMakeFiles/c__.dir/sumNums.cpp.o
 CMakeFiles/c__.dir/threeSum.cpp.o
  /Users/wanjianxin/xiaowan/leetcode/c++/threeSum.cpp
  /Users/wanjianxin/xiaowan/leetcode/c++/threeSum.h
+CMakeFiles/c__.dir/waysToChange.cpp.o
+ /Users/wanjianxin/xiaowan/leetcode/c++/waysToChange.cpp
+ /Users/wanjianxin/xiaowan/leetcode/c++/waysToChange.h

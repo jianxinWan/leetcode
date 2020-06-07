@@ -28,6 +28,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/new21Game.cpp.o"
   "CMakeFiles/c__.dir/productExceptSelf.cpp.o"
   "CMakeFiles/c__.dir/longestConsecutive.cpp.o"
+  "CMakeFiles/c__.dir/waysToChange.cpp.o"
   "c__.pdb"
   "c__"
 )

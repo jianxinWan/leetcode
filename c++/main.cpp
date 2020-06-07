@@ -16,12 +16,12 @@
 //#include "rob.h"
 //#include "searchInsert.h"
 //#include "addTwoNumbers.h"
-#include "longestConsecutive.h"
+//#include "longestConsecutive.h"
+#include "waysToChange.h"
 using namespace std;
 
 int main() {
-    longestConsecutive l;
-    vector<int> nums = {100, 4, 200, 1, 3, 2};
-    cout << l.index(nums) << endl;
+    waysToChange w;
+    cout << w.index(100) << endl;
     return 0;
 }

@@ -33,6 +33,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/wanjianxin/xiaowan/leetcode/c++/subarraySum.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/subarraySum.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/sumNums.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/sumNums.cpp.o"
   "/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/threeSum.cpp.o"
+  "/Users/wanjianxin/xiaowan/leetcode/c++/waysToChange.cpp" "/Users/wanjianxin/xiaowan/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/waysToChange.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
