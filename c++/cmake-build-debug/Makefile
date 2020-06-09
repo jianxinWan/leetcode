@@ -906,6 +906,33 @@ threeSum.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/threeSum.cpp.s
 .PHONY : threeSum.cpp.s
 
+translateNum.o: translateNum.cpp.o
+
+.PHONY : translateNum.o
+
+# target to build an object file
+translateNum.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/translateNum.cpp.o
+.PHONY : translateNum.cpp.o
+
+translateNum.i: translateNum.cpp.i
+
+.PHONY : translateNum.i
+
+# target to preprocess a source file
+translateNum.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/translateNum.cpp.i
+.PHONY : translateNum.cpp.i
+
+translateNum.s: translateNum.cpp.s
+
+.PHONY : translateNum.s
+
+# target to generate assembly for a file
+translateNum.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/translateNum.cpp.s
+.PHONY : translateNum.cpp.s
+
 waysToChange.o: waysToChange.cpp.o
 
 .PHONY : waysToChange.o
@@ -1029,6 +1056,9 @@ help:
 	@echo "... threeSum.o"
 	@echo "... threeSum.i"
 	@echo "... threeSum.s"
+	@echo "... translateNum.o"
+	@echo "... translateNum.i"
+	@echo "... translateNum.s"
 	@echo "... waysToChange.o"
 	@echo "... waysToChange.i"
 	@echo "... waysToChange.s"

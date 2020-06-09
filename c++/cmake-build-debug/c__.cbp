@@ -251,6 +251,12 @@
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/threeSum.h">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/translateNum.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/translateNum.h">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/wanjianxin/xiaowan/leetcode/c++/waysToChange.cpp">
 			<Option target="c__"/>
 		</Unit>

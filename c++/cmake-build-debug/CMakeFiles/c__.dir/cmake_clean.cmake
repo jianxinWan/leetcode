@@ -29,6 +29,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/productExceptSelf.cpp.o"
   "CMakeFiles/c__.dir/longestConsecutive.cpp.o"
   "CMakeFiles/c__.dir/waysToChange.cpp.o"
+  "CMakeFiles/c__.dir/translateNum.cpp.o"
   "c__.pdb"
   "c__"
 )
